@@ -1,0 +1,10 @@
+Marek Testowy 1 1 26601251
+Tony Stark 4 1 28171805
+Marek Mi 3 1 28171852
+Jan Kowalski 2 2 28171875
+Janusz Nowak 1 1 28171886
+Krzysztof Dawid 4 1 28171933
+Stefan Banach 2 2 28171983
+Jerzy Siwinski 1 2 28172066
+Wincenty Ki 2 1 28172799
+Iwo Odrowaz 4 2 28172853
